@@ -78,7 +78,6 @@ to achieve the fastest possible lap on a designated circuit, guided end-to-end b
 
 ▶ **[Watch the registered lap on YouTube](https://www.youtube.com/watch?v=g7Ml5rowLyY)**
 
-> _Replace the link above with your actual YouTube URL before publishing._
 
 ---
 
