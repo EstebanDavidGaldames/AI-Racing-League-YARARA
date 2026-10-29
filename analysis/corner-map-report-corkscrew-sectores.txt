@@ -1,0 +1,529 @@
+⚠  No summary row found for this lap in lap_summary.csv.
+   The lap may have ended abnormally (e.g. SIGKILL) before the
+   final summary row could be written. Data rows will still be
+   analysed but lap status and time are unavailable.
+
+
+==============================================================
+ CORNER MAP REPORT — unknown
+==============================================================
+ Run     : 98cab6ad-80d7-4a7e-bd2e-16b4408b9be8
+ Episode : 76edae33-df54-4af4-84ab-fbed84421313
+ Lap     : 1  (status: n/a (no summary row))
+ Sim lap time  : n/a (lap not completed) s
+ Damage        : n/a → n/a
+ Max speed     : n/a
+
+ Source        : lap_data.csv  (6394 step rows, 0 invalid row(s) excluded)
+
+ Thresholds used:
+   Corner candidate   : forward_track < 40 m
+   Straight candidate : forward_track > 150 m
+   [These are heuristic discovery values, not exact track geometry.
+    Adjust with --corner-threshold and --straight-threshold.]
+
+--------------------------------------------------------------
+ CORNER ZONES  (forward_track < 40 m)
+--------------------------------------------------------------
+
+  Zone C1 [WRAP]
+    Distance from start : 0.2 m → 3608.2 m  (3608.0 m long)
+    Samples             : 39  [no gaps]
+    Speed               : 56.3 – 110.4 km/h
+    Min forward_track   : 29.2 m
+    Min valid track     : 3.7 m
+    Heading (angle)     : -0.002 rad (-0.1°) → 0.097 rad (5.6°)
+    Track position      : -0.56 → 0.24  (crossed centre)
+    Damage increase     : 0
+
+  Zone C2
+    Distance from start : 16.7 m → 24.2 m  (7.5 m long)
+    Samples             : 14  [no gaps]
+    Speed               : 89.6 – 100.5 km/h
+    Min forward_track   : 33.7 m
+    Min valid track     : 6.9 m
+    Heading (angle)     : 0.077 rad (4.4°) → 0.108 rad (6.2°)
+    Track position      : -0.11 → 0.02  (crossed centre)
+    Damage increase     : 0
+
+  Zone C3
+    Distance from start : 168.1 m → 219.4 m  (51.3 m long)
+    Samples             : 99  [no gaps]
+    Speed               : 80.7 – 110.4 km/h
+    Min forward_track   : 17.7 m
+    Min valid track     : 2.6 m
+    Heading (angle)     : -0.001 rad (-0.1°) → 0.050 rad (2.9°)
+    Track position      : -0.69 → -0.48  (left side)
+    Damage increase     : 0
+
+  Zone C4
+    Distance from start : 383.5 m → 451.2 m  (67.7 m long)
+    Samples             : 191  [no gaps]
+    Speed               : 52.9 – 105.1 km/h
+    Min forward_track   : 0.1 m
+    Min valid track     : 0.0 m
+    Heading (angle)     : -0.022 rad (-1.3°) → 0.110 rad (6.3°)
+    Track position      : -1.00 → -0.41  (left side)
+    Damage increase     : 0
+
+  Zone C5
+    Distance from start : 473.4 m → 482.6 m  (9.2 m long)
+    Samples             : 24  [no gaps]
+    Speed               : 61.9 – 82.4 km/h
+    Min forward_track   : 0.3 m
+    Min valid track     : 0.0 m
+    Heading (angle)     : -0.103 rad (-5.9°) → 0.153 rad (8.7°)
+    Track position      : -1.00 → -0.92  (left side)
+    Damage increase     : 0
+
+  Zone C6
+    Distance from start : 559.9 m → 559.9 m  (0.0 m long)
+    Samples             : 1  [no gaps]
+    Speed               : 101.1 – 101.1 km/h
+    Min forward_track   : 0.5 m
+    Min valid track     : 0.0 m
+    Heading (angle)     : 0.014 rad (0.8°) → 0.014 rad (0.8°)
+    Track position      : -1.00 → -1.00  (left side)
+    Damage increase     : n/a  (insufficient damage readings)
+
+  Zone C7
+    Distance from start : 592.3 m → 596.7 m  (4.3 m long)
+    Samples             : 7  [no gaps]
+    Speed               : 114.2 – 114.9 km/h
+    Min forward_track   : 38.9 m
+    Min valid track     : 2.6 m
+    Heading (angle)     : -0.140 rad (-8.0°) → -0.132 rad (-7.6°)
+    Track position      : -0.74 → -0.65  (left side)
+    Damage increase     : 0
+
+  Zone C8
+    Distance from start : 640.8 m → 643.0 m  (2.1 m long)
+    Samples             : 4  [no gaps]
+    Speed               : 116.1 – 117.8 km/h
+    Min forward_track   : 39.8 m
+    Min valid track     : 7.8 m
+    Heading (angle)     : -0.091 rad (-5.2°) → -0.087 rad (-5.0°)
+    Track position      : -0.04 → -0.00  (near centre)
+    Damage increase     : 0
+
+  Zone C9
+    Distance from start : 712.0 m → 791.6 m  (79.6 m long)
+    Samples             : 213  [no gaps]
+    Speed               : 52.6 – 109.8 km/h
+    Min forward_track   : 0.0 m
+    Min valid track     : 0.0 m
+    Heading (angle)     : -0.091 rad (-5.2°) → 0.021 rad (1.2°)
+    Track position      : 0.38 → 1.00  (right side)
+    Damage increase     : 0
+
+  Zone C10
+    Distance from start : 978.7 m → 1062.0 m  (83.3 m long)
+    Samples             : 242  [no gaps]
+    Speed               : 52.4 – 107.8 km/h
+    Min forward_track   : 0.0 m
+    Min valid track     : 0.0 m
+    Heading (angle)     : -0.083 rad (-4.7°) → 0.019 rad (1.1°)
+    Track position      : 0.49 → 1.00  (right side)
+    Damage increase     : 0
+
+  Zone C11
+    Distance from start : 1070.5 m → 1077.5 m  (7.0 m long)
+    Samples             : 23  [no gaps]
+    Speed               : 52.7 – 68.3 km/h
+    Min forward_track   : 0.8 m
+    Min valid track     : 0.0 m
+    Heading (angle)     : -0.021 rad (-1.2°) → 0.032 rad (1.8°)
+    Track position      : 0.99 → 1.00  (right side)
+    Damage increase     : 0
+
+  Zone C12
+    Distance from start : 1087.8 m → 1088.6 m  (0.8 m long)
+    Samples             : 3  [no gaps]
+    Speed               : 72.5 – 73.3 km/h
+    Min forward_track   : 28.1 m
+    Min valid track     : 0.3 m
+    Heading (angle)     : -0.007 rad (-0.4°) → -0.006 rad (-0.4°)
+    Track position      : 0.96 → 0.97  (right side)
+    Damage increase     : 0
+
+  Zone C13
+    Distance from start : 1191.8 m → 1277.1 m  (85.3 m long)
+    Samples             : 160  [no gaps]
+    Speed               : 95.8 – 108.2 km/h
+    Min forward_track   : 29.0 m
+    Min valid track     : 2.3 m
+    Heading (angle)     : -0.010 rad (-0.5°) → 0.012 rad (0.7°)
+    Track position      : 0.68 → 0.72  (right side)
+    Damage increase     : 0
+
+  Zone C14
+    Distance from start : 1469.3 m → 1613.2 m  (143.9 m long)
+    Samples             : 396  [no gaps]
+    Speed               : 52.9 – 109.9 km/h
+    Min forward_track   : 7.3 m
+    Min valid track     : 0.4 m
+    Heading (angle)     : -0.001 rad (-0.0°) → 0.100 rad (5.7°)
+    Track position      : -0.95 → 0.31  (crossed centre)
+    Damage increase     : 0
+
+  Zone C15
+    Distance from start : 1623.4 m → 1627.1 m  (3.7 m long)
+    Samples             : 9  [no gaps]
+    Speed               : 73.6 – 77.1 km/h
+    Min forward_track   : 16.8 m
+    Min valid track     : 0.7 m
+    Heading (angle)     : 0.016 rad (0.9°) → 0.029 rad (1.7°)
+    Track position      : -0.92 → -0.92  (left side)
+    Damage increase     : 0
+
+  Zone C16
+    Distance from start : 1895.3 m → 1951.6 m  (56.3 m long)
+    Samples             : 138  [no gaps]
+    Speed               : 53.1 – 107.7 km/h
+    Min forward_track   : 7.9 m
+    Min valid track     : 1.3 m
+    Heading (angle)     : -0.022 rad (-1.3°) → 0.115 rad (6.6°)
+    Track position      : -0.85 → -0.39  (left side)
+    Damage increase     : 0
+
+  Zone C17
+    Distance from start : 1961.1 m → 1965.3 m  (4.2 m long)
+    Samples             : 10  [no gaps]
+    Speed               : 73.5 – 78.0 km/h
+    Min forward_track   : 24.6 m
+    Min valid track     : 1.3 m
+    Heading (angle)     : 0.026 rad (1.5°) → 0.039 rad (2.3°)
+    Track position      : -0.84 → -0.83  (left side)
+    Damage increase     : 0
+
+  Zone C18
+    Distance from start : 1999.3 m → 2043.0 m  (43.7 m long)
+    Samples             : 93  [no gaps]
+    Speed               : 61.4 – 99.8 km/h
+    Min forward_track   : 14.0 m
+    Min valid track     : 1.7 m
+    Heading (angle)     : -0.020 rad (-1.1°) → 0.033 rad (1.9°)
+    Track position      : -0.80 → -0.74  (left side)
+    Damage increase     : 0
+
+  Zone C19
+    Distance from start : 2075.4 m → 2121.8 m  (46.5 m long)
+    Samples             : 75  [no gaps]
+    Speed               : 102.5 – 106.7 km/h
+    Min forward_track   : 33.5 m
+    Min valid track     : 2.3 m
+    Heading (angle)     : -0.008 rad (-0.5°) → 0.007 rad (0.4°)
+    Track position      : -0.72 → -0.71  (left side)
+    Damage increase     : 0
+
+  Zone C20
+    Distance from start : 2341.4 m → 2365.0 m  (23.6 m long)
+    Samples             : 38  [no gaps]
+    Speed               : 100.6 – 114.7 km/h
+    Min forward_track   : 26.7 m
+    Min valid track     : 7.0 m
+    Heading (angle)     : -0.107 rad (-6.1°) → -0.029 rad (-1.6°)
+    Track position      : -0.14 → 0.12  (crossed centre)
+    Damage increase     : 0
+
+  Zone C21
+    Distance from start : 2411.3 m → 2519.1 m  (107.8 m long)
+    Samples             : 279  [no gaps]
+    Speed               : 53.2 – 100.3 km/h
+    Min forward_track   : 4.9 m
+    Min valid track     : 1.0 m
+    Heading (angle)     : -0.478 rad (-27.4°) → 0.222 rad (12.7°)
+    Track position      : -0.89 → 0.49  (crossed centre)
+    Damage increase     : 0
+
+  Zone C22
+    Distance from start : 2547.3 m → 2582.7 m  (35.4 m long)
+    Samples             : 66  [no gaps]
+    Speed               : 86.6 – 96.5 km/h
+    Min forward_track   : 22.2 m
+    Min valid track     : 3.5 m
+    Heading (angle)     : -0.043 rad (-2.4°) → 0.007 rad (0.4°)
+    Track position      : 0.47 → 0.57  (right side)
+    Damage increase     : 0
+
+  Zone C23
+    Distance from start : 2600.0 m → 2633.8 m  (33.8 m long)
+    Samples             : 52  [no gaps]
+    Speed               : 104.8 – 109.3 km/h
+    Min forward_track   : 28.9 m
+    Min valid track     : 3.5 m
+    Heading (angle)     : 0.030 rad (1.7°) → 0.153 rad (8.8°)
+    Track position      : 0.00 → 0.62  (near centre)
+    Damage increase     : 0
+
+  Zone C24
+    Distance from start : 2645.2 m → 2785.2 m  (140.0 m long)
+    Samples             : 328  [no gaps]
+    Speed               : 52.9 – 111.2 km/h
+    Min forward_track   : 5.2 m
+    Min valid track     : 0.3 m
+    Heading (angle)     : 0.008 rad (0.5°) → 0.065 rad (3.7°)
+    Track position      : -0.96 → -0.09  (left side)
+    Damage increase     : 0
+
+  Zone C25
+    Distance from start : 2792.9 m → 2798.2 m  (5.3 m long)
+    Samples             : 13  [no gaps]
+    Speed               : 69.1 – 74.1 km/h
+    Min forward_track   : 9.8 m
+    Min valid track     : 0.5 m
+    Heading (angle)     : 0.013 rad (0.7°) → 0.044 rad (2.5°)
+    Track position      : -0.93 → -0.93  (left side)
+    Damage increase     : 0
+
+  Zone C26
+    Distance from start : 2808.6 m → 2813.4 m  (4.8 m long)
+    Samples             : 10  [no gaps]
+    Speed               : 84.5 – 88.3 km/h
+    Min forward_track   : 16.3 m
+    Min valid track     : 0.9 m
+    Heading (angle)     : 0.017 rad (1.0°) → 0.042 rad (2.4°)
+    Track position      : -0.89 → -0.88  (left side)
+    Damage increase     : 0
+
+  Zone C27
+    Distance from start : 2931.1 m → 3021.3 m  (90.1 m long)
+    Samples             : 168  [no gaps]
+    Speed               : 71.3 – 113.4 km/h
+    Min forward_track   : 15.2 m
+    Min valid track     : 2.8 m
+    Heading (angle)     : -0.125 rad (-7.2°) → -0.003 rad (-0.2°)
+    Track position      : -0.42 → 0.65  (crossed centre)
+    Damage increase     : 0
+
+  Zone C28
+    Distance from start : 3226.8 m → 3289.1 m  (62.3 m long)
+    Samples             : 162  [no gaps]
+    Speed               : 52.7 – 110.1 km/h
+    Min forward_track   : 3.7 m
+    Min valid track     : 0.5 m
+    Heading (angle)     : 0.000 rad (0.0°) → 0.282 rad (16.2°)
+    Track position      : -0.94 → 0.30  (crossed centre)
+    Damage increase     : 0
+
+  Zone C29
+    Distance from start : 3297.7 m → 3304.6 m  (6.9 m long)
+    Samples             : 18  [no gaps]
+    Speed               : 68.7 – 76.4 km/h
+    Min forward_track   : 9.0 m
+    Min valid track     : 0.8 m
+    Heading (angle)     : 0.015 rad (0.9°) → 0.071 rad (4.1°)
+    Track position      : -0.91 → -0.89  (left side)
+    Damage increase     : 0
+
+  Zone C30
+    Distance from start : 3315.3 m → 3319.5 m  (4.2 m long)
+    Samples             : 10  [no gaps]
+    Speed               : 81.6 – 86.0 km/h
+    Min forward_track   : 23.0 m
+    Min valid track     : 0.9 m
+    Heading (angle)     : 0.019 rad (1.1°) → 0.031 rad (1.8°)
+    Track position      : -0.89 → -0.88  (left side)
+    Damage increase     : 0
+
+--------------------------------------------------------------
+ STRAIGHT ZONES  (forward_track > 150 m)
+--------------------------------------------------------------
+
+  Zone S1 [WRAP]
+    Distance from start : 36.6 m → 3488.7 m  (3452.1 m long)
+    Samples             : 264  [no gaps]
+    Speed               : 76.7 – 153.2 km/h
+    Min forward_track   : 150.5 m
+    Min valid track     : 0.9 m
+    Heading (angle)     : -0.031 rad (-1.8°) → 0.029 rad (1.7°)
+    Track position      : -0.89 → -0.25  (left side)
+    Damage increase     : 0
+
+  Zone S2
+    Distance from start : 222.9 m → 271.6 m  (48.7 m long)
+    Samples             : 74  [no gaps]
+    Speed               : 94.5 – 142.9 km/h
+    Min forward_track   : 150.2 m
+    Min valid track     : 2.5 m
+    Heading (angle)     : -0.035 rad (-2.0°) → 0.007 rad (0.4°)
+    Track position      : -0.71 → -0.63  (left side)
+    Damage increase     : 0
+
+  Zone S3
+    Distance from start : 804.2 m → 806.1 m  (1.9 m long)
+    Samples             : 6  [no gaps]
+    Speed               : 74.9 – 79.1 km/h
+    Min forward_track   : 162.8 m
+    Min valid track     : 0.0 m
+    Heading (angle)     : 0.060 rad (3.4°) → 0.074 rad (4.2°)
+    Track position      : 1.00 → 1.00  (right side)
+    Damage increase     : 0
+
+  Zone S4
+    Distance from start : 814.2 m → 866.2 m  (52.1 m long)
+    Samples             : 80  [no gaps]
+    Speed               : 91.1 – 142.3 km/h
+    Min forward_track   : 150.2 m
+    Min valid track     : 0.8 m
+    Heading (angle)     : -0.005 rad (-0.3°) → 0.077 rad (4.4°)
+    Track position      : 0.73 → 0.92  (right side)
+    Damage increase     : 0
+
+  Zone S5
+    Distance from start : 1079.3 m → 1084.0 m  (4.7 m long)
+    Samples             : 15  [no gaps]
+    Speed               : 55.1 – 65.3 km/h
+    Min forward_track   : 150.6 m
+    Min valid track     : 0.0 m
+    Heading (angle)     : 0.015 rad (0.8°) → 0.022 rad (1.3°)
+    Track position      : 0.98 → 1.00  (right side)
+    Damage increase     : 0
+
+  Zone S6
+    Distance from start : 1286.5 m → 1360.6 m  (74.1 m long)
+    Samples             : 97  [no gaps]
+    Speed               : 113.1 – 153.2 km/h
+    Min forward_track   : 150.8 m
+    Min valid track     : 2.3 m
+    Heading (angle)     : 0.001 rad (0.1°) → 0.021 rad (1.2°)
+    Track position      : 0.63 → 0.73  (right side)
+    Damage increase     : 0
+
+  Zone S7
+    Distance from start : 1614.3 m → 1621.7 m  (7.4 m long)
+    Samples             : 21  [no gaps]
+    Speed               : 54.4 – 69.6 km/h
+    Min forward_track   : 200.0 m
+    Min valid track     : 0.4 m
+    Heading (angle)     : -0.017 rad (-1.0°) → 0.000 rad (0.0°)
+    Track position      : -0.95 → -0.93  (left side)
+    Damage increase     : 0
+
+  Zone S8
+    Distance from start : 1628.5 m → 1782.1 m  (153.6 m long)
+    Samples             : 195  [no gaps]
+    Speed               : 72.0 – 153.1 km/h
+    Min forward_track   : 150.2 m
+    Min valid track     : 0.7 m
+    Heading (angle)     : -0.033 rad (-1.9°) → 0.000 rad (0.0°)
+    Track position      : -0.92 → -0.61  (left side)
+    Damage increase     : 0
+
+  Zone S9
+    Distance from start : 2137.2 m → 2220.9 m  (83.8 m long)
+    Samples             : 98  [no gaps]
+    Speed               : 114.4 – 159.9 km/h
+    Min forward_track   : 152.7 m
+    Min valid track     : 2.5 m
+    Heading (angle)     : -0.067 rad (-3.9°) → -0.001 rad (-0.1°)
+    Track position      : -0.71 → -0.36  (left side)
+    Damage increase     : 0
+
+  Zone S10
+    Distance from start : 2785.8 m → 2791.7 m  (5.8 m long)
+    Samples             : 17  [no gaps]
+    Speed               : 53.6 – 67.1 km/h
+    Min forward_track   : 184.9 m
+    Min valid track     : 0.3 m
+    Heading (angle)     : -0.017 rad (-0.9°) → 0.000 rad (0.0°)
+    Track position      : -0.96 → -0.94  (left side)
+    Damage increase     : 0
+
+  Zone S11
+    Distance from start : 2799.0 m → 2807.6 m  (8.5 m long)
+    Samples             : 20  [no gaps]
+    Speed               : 66.8 – 82.5 km/h
+    Min forward_track   : 165.0 m
+    Min valid track     : 0.6 m
+    Heading (angle)     : -0.035 rad (-2.0°) → 0.001 rad (0.0°)
+    Track position      : -0.93 → -0.89  (left side)
+    Damage increase     : 0
+
+  Zone S12
+    Distance from start : 2814.4 m → 2817.3 m  (2.9 m long)
+    Samples             : 7  [no gaps]
+    Speed               : 77.3 – 82.3 km/h
+    Min forward_track   : 151.4 m
+    Min valid track     : 0.9 m
+    Heading (angle)     : -0.037 rad (-2.1°) → 0.003 rad (0.2°)
+    Track position      : -0.89 → -0.88  (left side)
+    Damage increase     : 0
+
+  Zone S13
+    Distance from start : 3023.1 m → 3025.1 m  (2.0 m long)
+    Samples             : 5  [no gaps]
+    Speed               : 78.8 – 82.3 km/h
+    Min forward_track   : 173.2 m
+    Min valid track     : 2.9 m
+    Heading (angle)     : -0.001 rad (-0.0°) → 0.058 rad (3.3°)
+    Track position      : 0.66 → 0.67  (right side)
+    Damage increase     : 0
+
+  Zone S14
+    Distance from start : 3032.0 m → 3038.4 m  (6.4 m long)
+    Samples             : 12  [no gaps]
+    Speed               : 91.5 – 98.6 km/h
+    Min forward_track   : 156.9 m
+    Min valid track     : 3.5 m
+    Heading (angle)     : -0.013 rad (-0.7°) → 0.062 rad (3.5°)
+    Track position      : 0.59 → 0.61  (right side)
+    Damage increase     : 0
+
+  Zone S15
+    Distance from start : 3049.0 m → 3117.6 m  (68.6 m long)
+    Samples             : 98  [no gaps]
+    Speed               : 103.6 – 134.2 km/h
+    Min forward_track   : 150.6 m
+    Min valid track     : 3.1 m
+    Heading (angle)     : -0.012 rad (-0.7°) → 0.021 rad (1.2°)
+    Track position      : 0.58 → 0.63  (right side)
+    Damage increase     : 0
+
+  Zone S16
+    Distance from start : 3289.8 m → 3296.8 m  (7.1 m long)
+    Samples             : 20  [no gaps]
+    Speed               : 54.0 – 69.4 km/h
+    Min forward_track   : 200.0 m
+    Min valid track     : 0.5 m
+    Heading (angle)     : -0.041 rad (-2.3°) → 0.000 rad (0.0°)
+    Track position      : -0.94 → -0.90  (left side)
+    Damage increase     : 0
+
+  Zone S17
+    Distance from start : 3305.4 m → 3313.9 m  (8.5 m long)
+    Samples             : 22  [no gaps]
+    Speed               : 67.1 – 82.1 km/h
+    Min forward_track   : 200.0 m
+    Min valid track     : 0.8 m
+    Heading (angle)     : -0.031 rad (-1.8°) → 0.002 rad (0.1°)
+    Track position      : -0.91 → -0.88  (left side)
+    Damage increase     : 0
+
+--------------------------------------------------------------
+ SENSOR NOTES
+--------------------------------------------------------------
+
+  • forward_track is the dead-ahead (0°) radar beam.
+    It measures the distance to the track boundary ahead of the
+    car's current nose direction. It is NOT lateral clearance.
+
+  • A reading of 200 m means 'no boundary detected within range',
+    not that a wall is exactly 200 m away.
+
+  • A single short sample may be sensor noise. Zones with fewer
+    than 5 samples should be treated with caution.
+
+  • min_valid_track is the minimum reading across all 19 angled
+    beams. It can indicate proximity to track edges or barriers
+    that the forward beam alone would not detect.
+
+  • The 40 m / 150 m thresholds are starting points.
+    Use --corner-threshold and --straight-threshold to refine them
+    once you have verified the circuit geometry.
+
+  • Distance from start and zone lengths are derived from the
+    distFromStart sensor and reflect where the car was, not the
+    true geometric length of the corner.
+
+==============================================================
