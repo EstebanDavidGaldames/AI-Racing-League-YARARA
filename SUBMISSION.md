@@ -78,7 +78,6 @@
 | **Experiment ID** | `exp39_fix_steering_gain` |
 | **Video** | ▶ [Watch on YouTube](https://www.youtube.com/watch?v=g7Ml5rowLyY) |
 
-> _Replace the YouTube link before publishing._
 
 ---
 
